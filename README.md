@@ -2,6 +2,7 @@
 This Python script, *scrap_reuters.py* contains functions to scrap stock news articles from www.reuters.com using beautifulsoup package
 
 ## Table of Cotent
+[Modules Required](#Module)
 [Feature](#Feature)  
 
 ## Feature

@@ -2,6 +2,7 @@
 Scrap stock news articles from reuters.com using beautifulsoup package in Python
 
 ## Table of Cotent
+[Feature](#Feature)  
 
 ## Feature
 def scrap_all_of(ticker)

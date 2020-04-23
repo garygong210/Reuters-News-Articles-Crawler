@@ -3,7 +3,20 @@ This Python script, *scrap_reuters.py* contains functions to scrap stock news ar
 
 ## Table of Cotent
 [Modules Required](#Module)
+
 [Feature](#Feature)  
+
+## Modules Required
+The following modules are required for running this script
+```python
+import requests
+import datetime
+import pandas as pd
+from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+import time
+```
 
 ## Feature
 ```python
